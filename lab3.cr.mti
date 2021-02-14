@@ -1,0 +1,103 @@
+D:/digitalDesign/lab3/cgen2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/cgen2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cgen2
+-- Compiling architecture cgenBHV of cgen2
+
+} {} {}} D:/digitalDesign/lab3/fa.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/fa.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fa
+-- Compiling architecture faBHV of fa
+
+} {} {}} D:/digitalDesign/lab3/cla8.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/cla8.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cla8
+-- Compiling architecture cla8Struct of cla8
+-- Loading entity cla2
+
+} {} {}} D:/digitalDesign/lab3/adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder
+-- Compiling architecture RIPPLE_CARRY of adder
+-- Loading entity fa
+-- Compiling architecture CARRY_LOOKAHEAD of adder
+-- Loading entity adder
+-- Compiling architecture CARRY_LOOKAHEAD_BAD_SYNTHESIS of adder
+-- Loading entity adder
+-- Compiling architecture HIERARCHICAL of adder
+-- Loading entity adder
+-- Loading package NUMERIC_STD
+-- Loading entity cla4
+-- Loading entity cgen2
+
+} {} {}} D:/digitalDesign/lab3/cla4.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/cla4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cla4
+-- Compiling architecture cla4Struct of cla4
+-- Loading entity cla2
+-- Loading entity cgen2
+
+} {} {}} D:/digitalDesign/lab3/adder_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/adder_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder_tb
+-- Compiling architecture TB of adder_tb
+-- Compiling configuration TB_CONFIG
+-- Loading entity adder_tb
+-- Loading architecture TB of adder_tb
+-- Loading entity adder
+
+} {} {}} D:/digitalDesign/lab3/adder_top.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/adder_top.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder_top
+-- Compiling architecture STR of adder_top
+-- Compiling configuration ADDER_TOP_CONFIG
+-- Loading entity adder_top
+-- Loading architecture STR of adder_top
+-- Loading entity adder
+
+} {} {}} D:/digitalDesign/lab3/top_level.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/top_level.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity top_level
+-- Compiling architecture STR of top_level
+-- Compiling configuration top_level_cfg
+-- Loading entity top_level
+-- Loading architecture STR of top_level
+-- Loading entity adder
+
+} {} {}} D:/digitalDesign/lab3/cla2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/digitalDesign/lab3/cla2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cla2
+-- Compiling architecture cla2BHV of cla2
+
+} {} {}}
